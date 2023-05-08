@@ -1,0 +1,308 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "PimEyes",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "PimEyes",
+      "title": "What is PimEyes?",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PimEyes is a facial recognition and reverse image search tool",
+      "link": "file:///android_asset/guide/What is PimEyes.html"
+    },
+    {
+      "id": 2,
+      "name_category": "PimEyes",
+      "title": "About PimEyes",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Using advanced facial recognition technology, PimEyes is able to detect",
+      "link": "file:///android_asset/guide/About PimEyes.html"
+    },
+    {
+      "id": 3,
+      "name_category": "PimEyes",
+      "title": "How to use PimEyes?",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "It’s quite easy. It doesn’t take more than a few seconds to conduct a search",
+      "link": "file:///android_asset/guide/How to Use PimEyes.html"
+    },
+    {
+      "id": 4,
+      "name_category": "PimEyes",
+      "title": "How PimEyes Operate",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Searching for public information only",
+      "link": "file:///android_asset/guide/How PimEyes Operate.html"
+    },
+    {
+      "id": 5,
+      "name_category": "PimEyes",
+      "title": "PimEyes Pricing Plans",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PimEyes has 3 different pricing plans:",
+      "link": "file:///android_asset/guide/PimEyes Pricing Plans.html"
+    },
+    {
+      "id": 6,
+      "name_category": "PimEyes",
+      "title": "PimEyes Pricing Plans",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PimEyes has 3 different pricing plans:",
+      "link": "file:///android_asset/guide/PimEyes Pricing Plans.html"
+    },
+    {
+      "id": 7,
+      "name_category": "PimEyes",
+      "title": "How PimEyes Can Help You",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PimEyes is an online face search engine that goes through the Internet to find pictures",
+      "link": "file:///android_asset/guide/How PimEyes Can Help You.html"
+    },
+    {
+      "id": 8,
+      "name_category": "PimEyes",
+      "title": "PROtect Your Privacy",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "We believe that you have the right to find yourself on the Internet and protect",
+      "link": "file:///android_asset/guide/PROtect Your Privacy.html"
+    },
+    {
+      "id": 9,
+      "name_category": "PimEyes",
+      "title": "PROtect Your Privacy",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "We believe that you have the right to find yourself on the Internet and protect",
+      "link": "file:///android_asset/guide/PROtect Your Privacy.html"
+    },
+    {
+      "id": 10,
+      "name_category": "PimEyes",
+      "title": "What Is a Reverse Image Search",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "A reverse image search is a technique that allows finding things, people, brands, etc",
+      "link": "file:///android_asset/guide/What Is a Reverse Image Search.html"
+    },
+    {
+      "id": 11,
+      "name_category": "PimEyes",
+      "title": "More than a Reverse Image Search",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PimEyes uses a reverse image search mechanism and enhances it by face recognition technology",
+      "link": "file:///android_asset/guide/More than a Reverse Image Search.html"
+    },
+    {
+      "id": 12,
+      "name_category": "PimEyes",
+      "title": "How to Reverse Image Search?",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "To perform a reverse image search you have to upload a photo to a search engine or take",
+      "link": "file:///android_asset/guide/How to Reverse Image Search.html"
+    },
+    {
+      "id": 13,
+      "name_category": "PimEyes",
+      "title": "Exclude Your Face From PimEye's Search Results",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "With PimEye’s you can hide your existing photos from being showed on the public search",
+      "link": "file:///android_asset/guide/Exclude Your Face From PimEye's Search Results.html"
+    },
+    {
+      "id": 14,
+      "name_category": "PimEyes",
+      "title": "PimEyes' Statement on Allegations Made",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "To address the increased public interest caused by article published by BBC, related to PimEyes",
+      "link": "file:///android_asset/guide/PimEyes' Statement on Allegations Made.html"
+    },
+    {
+      "id": 15,
+      "name_category": "PimEyes",
+      "title": "More About PimEyes' Database and Opt-Out Service",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "During the last five years PimEyes has established itself as a leading and the most efficient",
+      "link": "file:///android_asset/guide/More About PimEyes' Database and Opt-Out Service.html"
+    },
+    {
+      "id": 16,
+      "name_category": "PimEyes",
+      "title": "How to Recognize Fake Photos",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Fake news, fake photos, fake profiles - we can call the spreading of them our current-day plague",
+      "link": "file:///android_asset/guide/How to Recognize Fake Photos.html"
+    },
+    {
+      "id": 17,
+      "name_category": "PimEyes",
+      "title": "How to Verify Fake Photos",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "We hope that the few tips mentioned below will help you recognize fake photos, especially",
+      "link": "file:///android_asset/guide/How to Verify Fake Photos.html"
+    },
+    {
+      "id": 18,
+      "name_category": "PimEyes",
+      "title": "Fake Identification Detector",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Maybe she’s born with it. Maybe it’s Photoshop. Who doesn’t know that slogan?",
+      "link": "file:///android_asset/guide/Fake Identification Detector.html"
+    },
+    {
+      "id": 19,
+      "name_category": "PimEyes",
+      "title": "What Data Does PimEyes Store",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "In PimEyes we are aware of how important it is for everyone to know where their data is published",
+      "link": "file:///android_asset/guide/What Data Does PimEyes Store.html"
+    },
+    {
+      "id": 20,
+      "name_category": "PimEyes",
+      "title": "How to Recognize a Catfish?",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "“Catfishing occurs when a person creates a fake profile using the pictures and information ",
+      "link": "file:///android_asset/guide/How to Recognize a Catfish?.html"
+    },
+    {
+      "id": 21,
+      "name_category": "PimEyes",
+      "title": "How do Identity Thieves Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Identity theft is something we hear about a lot. However, have you ever wondered how exactly",
+      "link": "file:///android_asset/guide/How do Identity Thieves Work.html"
+    },
+    {
+      "id": 22,
+      "name_category": "PimEyes",
+      "title": "FAQ",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "As a subscriber to our Open Plus package, you are granted exclusive access to a comprehensive",
+      "link": "file:///android_asset/guide/FAQ.html"
+    },
+    {
+      "id": 23,
+      "name_category": "PimEyes",
+      "title": "Yandex Images – Best Free PimEyes Alternative",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Yandex, a Russian-based search engine, uses a combination of image recognition and facial ",
+      "link": "file:///android_asset/guide/Yandex Images – Best Free PimEyes Alternative.html"
+    },
+    {
+      "id": 24,
+      "name_category": "PimEyes",
+      "title": "FindClone – Best Free PimEyes Alternative",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "FindClone, formerly SearchFace, is another Russian site that uses facial recognition technology ",
+      "link": "file:///android_asset/guide/FindClone – Best Free PimEyes Alternative.html"
+    },
+    {
+      "id": 25,
+      "name_category": "PimEyes",
+      "title": "Yandex Images – Best Free PimEyes Alternative",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Yandex, a Russian-based search engine, uses a combination of image recognition and facial ",
+      "link": "file:///android_asset/guide/Yandex Images – Best Free PimEyes Alternative.html"
+    },
+    {
+      "id": 23,
+      "name_category": "PimEyes",
+      "title": "FindClone – Best Free PimEyes Alternative",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "FindClone, formerly SearchFace, is another Russian site that uses facial recognition",
+      "link": "file:///android_asset/guide/FindClone – Best Free PimEyes Alternative"
+    },
+    {
+      "id": 24,
+      "name_category": "PimEyes",
+      "title": "Search4faces – Best Free PimEyes Alternative",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Search4faces is yet another Russian site and a free alternative to PimEyes",
+      "link": "file:///android_asset/guide/Search4faces – Best Free PimEyes Alternative.html"
+    },
+    {
+      "id": 25,
+      "name_category": "PimEyes",
+      "title": "EagleEye – Best Free PimEyes Alternative",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "EagleEye, unlike Pimeye, is entirely free to use, and its code is available on",
+      "link": "file:///android_asset/guide/EagleEye – Best Free PimEyes Alternative"
+    },
+    {
+      "id": 26,
+      "name_category": "PimEyes",
+      "title": "Google Reverse Image Search (With a Twist)",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Google’s reverse image search isn’t always the best for finding similar faces",
+      "link": "file:///android_asset/guide/Google Reverse Image Search (With a Twist)"
+    },
+    {
+      "id": 27,
+      "name_category": "PimEyes",
+      "title": "PicTriev – Best Free PimEyes Alternative",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PicTriev is a facial recognition matching tool that helps you find lookalikes",
+      "link": "file:///android_asset/guide/PicTriev – Best Free PimEyes Alternative"
+    }
+  ]
+}
