@@ -1,0 +1,180 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Peblely AI App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Peblely AI App Info",
+      "title": "What is Pebblely",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pebblely is an AI-powered product photography tool that enables users to quickly and easily",
+      "link": "file:///android_asset/guide/What is Pebblely.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Peblely AI App Info",
+      "title": "Pebblely Features",
+      "image": "file:///android_asset/image/B.jpg",
+      "description": "Pebblely is an AI-based image curation platform designed to help users find the perfect",
+      "link": "file:///android_asset/guide/Pebblely Features.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Peblely AI App Info",
+      "title": "Price",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Monthly Pebblely US$19 Pebblely Pro US$39",
+      "link": "file:///android_asset/guide/Price.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Peblely AI App Info",
+      "title": "Features in Pebblely",
+      "image": "file:///android_asset/image/B.jpg",
+      "description": "Instantly generate product photos for moodboards, mockups, social media posts and",
+      "link": "file:///android_asset/guide/Features in Pebblely.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Peblely AI App Info",
+      "title": "Features in Pebblely Pro",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "For professional designers and creative agencies. Save 19% with the annual plan!",
+      "link": "file:///android_asset/guide/Features in Pebblely Pro.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Peblely AI App Info",
+      "title": "Features in Pebblely Bespoke",
+      "image": "file:///android_asset/image/B.jpg",
+      "description": "We will create a customized AI for your brand starting from 3000USD per",
+      "link": "file:///android_asset/guide/Features in Pebblely Bespoke.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Peblely AI App Info",
+      "title": "How Its Work ",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pebblely automatically removes the background from your images",
+      "link": "file:///android_asset/guide/How Its Work .html"
+    },
+    {
+      "id": 8,
+      "name_category": "Peblely AI App Info",
+      "title": "Pros & Cons",
+      "image": "file:///android_asset/image/B.jpg",
+      "description": "Enhances product images: Pebblely uses advanced AI technology to enhance product images ",
+      "link": "file:///android_asset/guide/Pros & Cons.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Peblely AI App Info",
+      "title": "Benefits of Pebblely",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "There are many benefits to using Pebblely AI Product Photography for your business.",
+      "link": "file:///android_asset/guide/Benefits of Pebblely.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Peblely AI App Info",
+      "title": "How Can Pebblely Help Your Business",
+      "image": "file:///android_asset/image/B.jpg",
+      "description": "Attracting More Customers – High-quality product images are more likely to attract potential",
+      "link": "file:///android_asset/guide/How Can Pebblely Help Your Business.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Peblely AI App Info",
+      "title": "Frequently Asked Questions & Tips",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pebblely is an AI tool that turns boring product images into beautiful marketing assets",
+      "link": "file:///android_asset/guide/Frequently Asked Questions & Tips.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Peblely AI App Info",
+      "title": "How to Generate High-Quality, Realistic Custom Backgrounds for Your AI Product Images",
+      "image": "file:///android_asset/image/B.jpg",
+      "description": "There are three things you need to do before you even use Pebblely:",
+      "link": "file:///android_asset/guide/How to Generate High-Quality, Realistic Custom Backgrounds for Your AI Product Images.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Peblely AI App Info",
+      "title": "How to Edit AI Product Images in Pebblely",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "How to edit your AI product images This new editing feature is only available on our paid plans",
+      "link": "file:///android_asset/guide/How to Edit AI Product Images in Pebblely.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Peblely AI App Info",
+      "title": "How to Generate AI Images With Multiple Products",
+      "image": "file:///android_asset/image/B.jpg",
+      "description": "Upload one of your products to Pebblely If you don’t have your products in Pebblely already, upload a photo",
+      "link": "file:///android_asset/guide/How to Generate AI Images With Multiple Products.html"
+    }
+  ]
+}
