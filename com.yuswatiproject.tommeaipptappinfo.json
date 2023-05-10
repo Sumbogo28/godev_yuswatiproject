@@ -1,0 +1,212 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "TommeAI PPT App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "TommeAI PPT App Info",
+      "title": "What is Tome AI?",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "We must first answer the question what is Tome AI to help you understand it better",
+      "link": "file:///android_asset/guide/What is Tome AI.html"
+    },
+    {
+      "id": 2,
+      "name_category": "TommeAI PPT App Info",
+      "title": "How Tome.app’s AI Technology Works",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Tome.app offers several key features that make it a powerful tool for creating effective presentations",
+      "link": "file:///android_asset/guide/How Tome.app’s AI Technology Works.html"
+    },
+    {
+      "id": 3,
+      "name_category": "TommeAI PPT App Info",
+      "title": "How Does Tome AI Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Tome AI uses a four-step process to help you create high-quality content",
+      "link": "file:///android_asset/guide/How Does Tome AI Work.html"
+    },
+    {
+      "id": 4,
+      "name_category": "TommeAI PPT App Info",
+      "title": "How To Use It",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Tome.app offers several key features that make it a powerful tool for creating effective presentations",
+      "link": "file:///android_asset/guide/How To Use It.html"
+    },
+    {
+      "id": 5,
+      "name_category": "TommeAI PPT App Info",
+      "title": "How Tome.app’s AI Technology Works",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Just like other AI tools, Tome AI also offers a very easy and simple user experience",
+      "link": "file:///android_asset/guide/How Tome.app’s AI Technology Works.html"
+    },
+    {
+      "id": 6,
+      "name_category": "TommeAI PPT App Info",
+      "title": "Features and Benefits of Tome AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Tome AI comes with several features that can help you improve your content",
+      "link": "file:///android_asset/guide/Features and Benefits of Tome AI.html"
+    },
+    {
+      "id": 7,
+      "name_category": "TommeAI PPT App Info",
+      "title": "Conclusion",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "In summary, Tome.app is a revolutionary new app for creating effective presentations",
+      "link": "file:///android_asset/guide/Conclusion.html"
+    },
+    {
+      "id": 8,
+      "name_category": "TommeAI PPT App Info",
+      "title": "Canva ",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Canva is an all-in-one design solution, empowering anyone—from students and non-profit",
+      "link": "file:///android_asset/guide/Canva .html"
+    },
+    {
+      "id": 9,
+      "name_category": "TommeAI PPT App Info",
+      "title": "Quaeris ",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Voice and written support makes it easy to get answers. Based on your interests, history, and role",
+      "link": "file:///android_asset/guide/Quaeris .html"
+    },
+    {
+      "id": 10,
+      "name_category": "TommeAI PPT App Info",
+      "title": "Presentations.AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "From a simple description, AI can create stunning decks. You can create and personalize presentations",
+      "link": "file:///android_asset/guide/Presentations.AI.html"
+    },
+    {
+      "id": 11,
+      "name_category": "TommeAI PPT App Info",
+      "title": "How to Use Tome AI to Create High-Quality Content",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Using Tome AI to create high-quality content is easy and straightforward",
+      "link": "file:///android_asset/guide/How to Use Tome AI to Create High-Quality Content.html"
+    },
+    {
+      "id": 12,
+      "name_category": "TommeAI PPT App Info",
+      "title": "Step By Step Using Tome AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Step 1: Go to the official website, click on “Get Tome for free” and sign in using your Google account",
+      "link": "file:///android_asset/guide/Step By Step Using Tome AI.html"
+    },
+    {
+      "id": 13,
+      "name_category": "TommeAI PPT App Info",
+      "title": "What Makes Tome AI Stand Out",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Tome AI stands out from other content creation tools for several reasons, including",
+      "link": "file:///android_asset/guide/What Makes Tome AI Stand Out.html"
+    },
+    {
+      "id": 14,
+      "name_category": "TommeAI PPT App Info",
+      "title": "FAQs about Tome AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "How much does Tome AI cost?",
+      "link": "file:///android_asset/guide/FAQs about Tome AI.html"
+    },
+    {
+      "id": 15,
+      "name_category": "TommeAI PPT App Info",
+      "title": "To Use a Tome Template",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": " Click the three-dot icon in the upper right corner of the template and click",
+      "link": "file:///android_asset/guide/To Use a Tome Template.html"
+    },
+    {
+      "id": 16,
+      "name_category": "TommeAI PPT App Info",
+      "title": "Opening up Tome to Everyone",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Our mission at Tome is to help anyone tell a compelling story. Today we hit an important",
+      "link": "file:///android_asset/guide/Opening up Tome to Everyone.html"
+    },
+    {
+      "id": 17,
+      "name_category": "TommeAI PPT App Info",
+      "title": "A Collaborative AI Partner, Right at Your Fingertips",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Use artificial intelligence to generate entire narratives, transform your documents into presentations",
+      "link": "file:///android_asset/guide/A Collaborative AI Partner, Right at Your Fingertips.html"
+    },
+    {
+      "id": 18,
+      "name_category": "TommeAI PPT App Info",
+      "title": "Build a Powerful Story With Any Type of Content",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Your narrative deserves more than text and images",
+      "link": "file:///android_asset/guide/Build a Powerful Story With Any Type of Content.html"
+    }
+  ]
+}
