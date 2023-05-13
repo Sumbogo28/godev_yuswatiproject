@@ -1,0 +1,196 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Wise Cut Video App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Wise Cut Video App Info",
+      "title": "What is PimEyes?",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Wisecut is an automatic video editing tool for individuals and businesses that uses AI",
+      "link": "file:///android_asset/guide/Wise Cut Video App Info.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Wisecut Features And Benefits",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "AI-Powered Auto Cut – Creating jump cuts has never been easier. You",
+      "link": "file:///android_asset/guide/Wisecut Features And Benefits.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Who Is Wisecut For",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Video editing tools are so important in today’s day and age. With the",
+      "link": "file:///android_asset/guide/Who Is Wisecut For.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Wise Cut Video App Info",
+      "title": "How Does Wisecut Work to Enhance Your Videos",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Wisecut is an AI-driven video editing tool that is designed to make the process of video",
+      "link": "file:///android_asset/guide/How Does Wisecut Work to Enhance Your Videos.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Pros And Cons Of Wisecut AI Video Editing Tool",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Now that we know how to use Wisecut AI to save time editing videos",
+      "link": "file:///android_asset/guide/Pros And Cons Of Wisecut AI Video Editing Tool.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Pricing Plan",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pricing FREE (Forever Free)",
+      "link": "file:///android_asset/guide/Pricing Plan.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Conclusion",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Overall thoughts on WiseCut",
+      "link": "file:///android_asset/guide/Conclusion.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Pictory",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pictory uses AI to convert long-form video and text into short, branded videos for social networks",
+      "link": "file:///android_asset/guide/Pictory.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Lumen5",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The easiest way to create videos for social media marketing. Lumen5 creates engaging, impactful videos",
+      "link": "file:///android_asset/guide/Lumen5.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Fliki",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Fliki is a Text-to-Speech and Text to Video converter that allows you to create audio or video content",
+      "link": "file:///android_asset/guide/Fliki.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Descript",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "This is how you make podcasts. Record. Transcribe. Edit. Mix. It's as easy as typing",
+      "link": "file:///android_asset/guide/Descript.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Creating A Wisecut Account",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "To start creating with Wisecut, you'll need to make an account first. To get started",
+      "link": "file:///android_asset/guide/Creating A Wisecut Account.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Wise Cut Video App Info",
+      "title": "A Step By Step Guide To Using WiseCut to Edit Your Videos",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Using Wisecut is really simple, you just need to create an account on the Wisecut website",
+      "link": "file:///android_asset/guide/A Step By Step Guide To Using WiseCut to Edit Your Videos.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Step Editing Vidios",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Wisecut AI includes a video editing tool that edits my video for me. I won’t have to go in and watch",
+      "link": "file:///android_asset/guide/Step Editing Vidios.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Re Editing A Finished Project",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "As I noted above, I didn’t love the “auto punch” feature, and I want",
+      "link": "file:///android_asset/guide/Re Editing A Finished Project.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Wise Cut Video App Info",
+      "title": "Final Review",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "I will definitely keep playing around with Wisecut’s AI video editing tools",
+      "link": "file:///android_asset/guide/Final Review.html"
+    }
+  ]
+}
