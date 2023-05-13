@@ -1,0 +1,348 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Status Invest App Information",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS INDICATOR ANALYSIS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The analysis of indicators is the process by which the current financial",
+      "link": "file:///android_asset/guide/WHAT IS INDICATOR ANALYSIS.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT ARE THE MAIN FINANCIAL INDICATORS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "A company can base itself on different indicators. The analysis",
+      "link": "file:///android_asset/guide/WHAT ARE THE MAIN FINANCIAL INDICATORS.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Status Invest App Information",
+      "title": "PROBLEMS IN THE ANALYSIS OF INDICATORS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Evaluating financial data helps identify the health of the company and the efficiency",
+      "link": "file:///android_asset/guide/PROBLEMS IN THE ANALYSIS OF INDICATORS.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS VARIABLE INCOME",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "For investors who wish to have more income, even if it means greater risks",
+      "link": "file:///android_asset/guide/WHAT IS VARIABLE INCOME.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Status Invest App Information",
+      "title": "VARIABLE INCOME X FIXED INCOME",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "There are differences between the two types. Among these differences",
+      "link": "file:///android_asset/guide/VARIABLE INCOME X FIXED INCOME.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Status Invest App Information",
+      "title": "VARIABLE INCOME TYPES",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "There are several products available on the market for those who",
+      "link": "file:///android_asset/guide/VARIABLE INCOME TYPES.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS A RELEVANT FACT",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The term known in the market as material fact refers to information about organizations",
+      "link": "file:///android_asset/guide/WHAT IS A RELEVANT FACT.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Status Invest App Information",
+      "title": "HOW DOES THE DISCLOSURE OF A MATERIAL FACT WORK",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Initially, it is important to understand that, in the economic environment, each financial",
+      "link": "file:///android_asset/guide/HOW DOES THE DISCLOSURE OF A MATERIAL FACT WORK.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Status Invest App Information",
+      "title": "MAIN RELEVANT FACTS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The Securities and Exchange Commission (CVM), through instruction 358, offers several",
+      "link": "file:///android_asset/guide/MAIN RELEVANT FACTS.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Status Invest App Information",
+      "title": "HOW TO INTERPRET A RELEVANT FACT",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Disclosure of the material fact can be interpreted as a tool for investors to",
+      "link": "file:///android_asset/guide/HOW TO INTERPRET A RELEVANT FACT.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS ASSET ALLOCATION",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Asset allocation is an investment strategy where money is allocated across",
+      "link": "file:///android_asset/guide/WHAT IS ASSET ALLOCATION.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Status Invest App Information",
+      "title": "WHY DOES DIVERSIFICATION BALANCE RISK AND RETURN",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "In the financial market, risk and return are proportional. Therefore, when the first",
+      "link": "file:///android_asset/guide/WHY DOES DIVERSIFICATION BALANCE RISK AND RETURN.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Status Invest App Information",
+      "title": "HOW DOES ASSET ALLOCATION WORK",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "To apply this strategy, it is necessary to know the investor profile. From there",
+      "link": "file:///android_asset/guide/HOW DOES ASSET ALLOCATION WORK.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT ARE THE CHARACTERISTICS OF THIS STRATEGY",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "In addition to knowing what asset allocation is , it is necessary to know",
+      "link": "file:///android_asset/guide/WHAT ARE THE CHARACTERISTICS OF THIS STRATEGY.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT ARE THE ADVANTAGES OF ASSET ALLOCATION",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The benefits of asset allocation are manifold. The main thing is the reduction",
+      "link": "file:///android_asset/guide/WHAT ARE THE ADVANTAGES OF ASSET ALLOCATION.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT ARE THE RISKS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Just as there are benefits, there are also negative points to the strategy. The main",
+      "link": "file:///android_asset/guide/WHAT ARE THE RISKS.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS AN EXCHANGE FUND",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Those who follow the financial market and are familiar with investment funds",
+      "link": "file:///android_asset/guide/WHAT IS AN EXCHANGE FUND.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Status Invest App Information",
+      "title": "HOW DOES AN EXCHANGE FUND WORK",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "As in any investment fund, the objective is to bring together several investors for a joint",
+      "link": "file:///android_asset/guide/HOW DOES AN EXCHANGE FUND WORK.html"
+    },
+    {
+      "id": 19,
+      "name_category": "Status Invest App Information",
+      "title": "TYPES OF EXCHANGE FUNDS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "There are different types of exchange funds within the financial market",
+      "link": "file:///android_asset/guide/TYPES OF EXCHANGE FUNDS.html"
+    },
+    {
+      "id": 20,
+      "name_category": "Status Invest App Information",
+      "title": "ADVANTAGES OF EXCHANGE FUNDS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "There are some advantages to investing in foreign exchange assets through funds, and the",
+      "link": "file:///android_asset/guide/ADVANTAGES OF EXCHANGE FUNDS.html"
+    },
+    {
+      "id": 21,
+      "name_category": "Status Invest App Information",
+      "title": "DISADVANTAGES OF EXCHANGE FUNDS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "One of the main disadvantages of Exchange Funds is the variation in the exchange rate",
+      "link": "file:///android_asset/guide/DISADVANTAGES OF EXCHANGE FUNDS.html"
+    },
+    {
+      "id": 22,
+      "name_category": "Status Invest App Information",
+      "title": "DIFFERENCE BETWEEN EXCHANGE FUND AND INVESTING DIRECTLY ABROAD",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "There are other ways to invest in foreign currency besides exchange funds. The options are detailed",
+      "link": "file:///android_asset/guide/DIFFERENCE BETWEEN EXCHANGE FUND AND INVESTING DIRECTLY ABROAD.html"
+    },
+    {
+      "id": 23,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS LONG TERM ASSETS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Among the different pieces of information presented in a company's financial",
+      "link": "file:///android_asset/guide/WHAT IS LONG TERM ASSETS.html"
+    },
+    {
+      "id": 24,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT ARE FINANCIAL INDICATORS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Financial indicators are metrics that help analyze the financial health of a company or business",
+      "link": "file:///android_asset/guide/WHAT ARE FINANCIAL INDICATORS.html"
+    },
+    {
+      "id": 25,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS A FINANCIAL ANALYSIS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "For both investors and company managers, financial analysis is a useful practice in the search ",
+      "link": "file:///android_asset/guide/WHAT IS A FINANCIAL ANALYSIS.html"
+    },
+    {
+      "id": 26,
+      "name_category": "Status Invest App Information",
+      "title": "HOW FINANCIAL ANALYSIS WORKS",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "To carry out the financial analysis of a business, several indicators of a company are considered",
+      "link": "file:///android_asset/guide/HOW FINANCIAL ANALYSIS WORKS .html"
+    },
+    {
+      "id": 27,
+      "name_category": "Status Invest App Information",
+      "title": "FINANCIAL ANALYSIS ON AN INVESTMENT",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "In the same way that a well-performed financial analysis points out paths",
+      "link": "file:///android_asset/guide/FINANCIAL ANALYSIS ON AN INVESTMENT.html"
+    },
+    {
+      "id": 28,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS FACTOR INVESTING",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Factor investing is a strategy in which portfolio assets are chosen based on factors",
+      "link": "file:///android_asset/guide/WHAT IS FACTOR INVESTING.html"
+    },
+    {
+      "id": 29,
+      "name_category": "Status Invest App Information",
+      "title": "HOW DOES THIS STRATEGY WORK",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The objective is to use the factors as the basis of the portfolio. Therefore, they consist",
+      "link": "file:///android_asset/guide/HOW DOES THIS STRATEGY WORK.html"
+    },
+    {
+      "id": 30,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS BEAR MARKET",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The bear market is the term used to indicate when the market is in a bearish state",
+      "link": "file:///android_asset/guide/WHAT IS BEAR MARKET.html"
+    },
+    {
+      "id": 31,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS PROFITABILITY",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Every investor wants to have a financial return on invested capital, and this return",
+      "link": "file:///android_asset/guide/WHAT IS PROFITABILITY.html"
+    },
+    {
+      "id": 32,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS A PORTFOLIO ALLOCATION",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "One of the most important steps for investors to succeed is choosing investments",
+      "link": "file:///android_asset/guide/WHAT IS A PORTFOLIO ALLOCATION.html"
+    },
+    {
+      "id": 33,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT ARE FINANCIAL APPLICATIONS ",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Investing in the financial market can be a good way for those seeking financial independence",
+      "link": "file:///android_asset/guide/WHAT ARE FINANCIAL APPLICATIONS .html"
+    },
+    {
+      "id": 34,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS BULL MARKET",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The bull market is the bull market. This is the term used to designate a period",
+      "link": "file:///android_asset/guide/WHAT IS BULL MARKET.html"
+    },
+    {
+      "id": 35,
+      "name_category": "Status Invest App Information",
+      "title": "WHAT IS A FIXED INCOME FUND",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "A fixed income fund is basically a type of investment fund that invests in fixed income securities",
+      "link": "file:///android_asset/guide/WHAT IS A FIXED INCOME FUND.html"
+    }
+  ]
+}
