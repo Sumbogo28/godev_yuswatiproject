@@ -1,0 +1,180 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Kappwing Video Editor App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "What is Kapwing",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Kapwing is an online video editor that allows you to edit images, GIFs and videos",
+      "link": "file:///android_asset/guide/What is Kapwing.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Kapwing Features",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Editing functions: cut your video, rotate it, change its size, divide the clips and then",
+      "link": "file:///android_asset/guide/Kapwing Features.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Features of Kapwing Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Kapwing video maker is also able to make slideshows and make things easier for professional",
+      "link": "file:///android_asset/guide/Features of Kapwing Video Editor.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Pros and Cons of Kapwing Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Next we will list the Pros and Cons about Kapwing video editor, which can help you make",
+      "link": "file:///android_asset/guide/Pros and Cons of Kapwing Video Editor.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Pricing of Kapwing Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Kapwing Video Editor ( Free )",
+      "link": "file:///android_asset/guide/Pricing of Kapwing Video Editor.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "User Reviews of Kapwing Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Some Kapwing reviews that touched us and the users are here to explain our being trustworthy",
+      "link": "file:///android_asset/guide/User Reviews of Kapwing Video Editor.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Learn How to Use Kapwing Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Kapwing video editor is rather easy to use, install, navigate and work on. You can explore",
+      "link": "file:///android_asset/guide/Learn How to Use Kapwing Video Editor.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Kapwing Video Editor Tools",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Edit video clips, combine tracks together, and add effects, all in the browser",
+      "link": "file:///android_asset/guide/Kapwing Video Editor Tools.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Kapwing Vidio Converter Introduction",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Kapwing Video Converter is a free file converter that can convert videos online. You can convert",
+      "link": "file:///android_asset/guide/Kapwing Vidio Converter Introduction.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Kapwing Vidio Converter Feature",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Kapwing Video Converter is a simple tool that can convert video formats online. You can upload your",
+      "link": "file:///android_asset/guide/Kapwing Vidio Converter Feature.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Pros of Kapwing Video Converter",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Here are the main advantages of Kapwing Video Converter. If you need a certain function, then you can",
+      "link": "file:///android_asset/guide/Pros of Kapwing Video Converter.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Cons of Kapwing Video Converter",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "To perform a reverse image search you have to upload a photo to a search engine or take",
+      "link": "file:///android_asset/guide/Cons of Kapwing Video Converter.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "How to Edit Video Online",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Upload your original video footage to Kapwing's advanced media library. Media library",
+      "link": "file:///android_asset/guide/How to Edit Video Online.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Kappwing Video Editor App Info",
+      "title": "Convert Video Files Online for Free",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "When your video is uploaded to Kapwing, you can make any edits to your video, or you can",
+      "link": "file:///android_asset/guide/Convert Video Files Online for Free.html"
+    }
+  ]
+}
