@@ -1,0 +1,204 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Flair AI App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Flair AI App Info",
+      "title": "Introduction to Flair AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair AI is an artificial intelligence design tool for branded content",
+      "link": "file:///android_asset/guide/Introduction to Flair AI.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Flair AI App Info",
+      "title": "Overview of Flair AI and its Features",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair AI is a powerful design tool that uses artificial intelligence to create high-quality product",
+      "link": "file:///android_asset/guide/Overview of Flair AI and its Features.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Flair AI App Info",
+      "title": "How Flair AI Works",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair AI is a powerful AI design tool for branded content that can help you generate great product",
+      "link": "file:///android_asset/guide/How Flair AI Works.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Flair AI App Info",
+      "title": "Flair AI‘s AI Design Features",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Branded Design Generation, Automatic Background Removal, Realistic Drop Shadows",
+      "link": "file:///android_asset/guide/Flair AI‘s AI Design Features.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Flair AI App Info",
+      "title": "Automatic Background Removal",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair AI’s automatic background removal feature simplifies the process of removing",
+      "link": "file:///android_asset/guide/Automatic Background Removal.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Flair AI App Info",
+      "title": "Benefits of Flair AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "As digital marketing continues to become more competitive, businesses are constantly searching",
+      "link": "file:///android_asset/guide/Benefits of Flair AI.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Flair AI App Info",
+      "title": "High-Quality Branded Content",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "One of the most significant advantages of Flair AI is the quality of the branded content",
+      "link": "file:///android_asset/guide/High-Quality Branded Content.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Flair AI App Info",
+      "title": "Cost-Effective Solution for Design Needs",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hiring a professional designer to create branded content can be expensive, especially",
+      "link": "file:///android_asset/guide/Cost-Effective Solution for Design Needs.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Flair AI App Info",
+      "title": "Overview of Flair AI’s Paid Plans",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair AI is a powerful design tool for branded content that allows businesses to streamline",
+      "link": "file:///android_asset/guide/Overview of Flair AI’s Paid Plans.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Flair AI App Info",
+      "title": "Free Trial",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair AI offers a free trial of its product to potential customers, which provides access to many",
+      "link": "file:///android_asset/guide/Free Trial.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Flair AI App Info",
+      "title": "Pricing Plans",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PimEyes uses a reverse image search mechanism and enhances it by face recognition technology",
+      "link": "file:///android_asset/guide/Pricing Plans.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Flair AI App Info",
+      "title": "Conclusion",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair AI offers several pricing plans, including Basic, Pro, and Business.",
+      "link": "file:///android_asset/guide/Conclusion.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Flair AI App Info",
+      "title": "Basic Plan",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair AI is a cutting-edge design tool that uses artificial intelligence to streamline the content",
+      "link": "file:///android_asset/guide/Basic Plan.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Flair AI App Info",
+      "title": "Features of Flair AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flair offers a user-friendly drag-and-drop interface, making it easy to import your product",
+      "link": "file:///android_asset/guide/Features of Flair AI.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Flair AI App Info",
+      "title": "Pricing of Flair AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "M Basic: Free trial, includes full access to Flair’s product photography feature, 30 free images",
+      "link": "file:///android_asset/guide/Pricing of Flair AI.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Flair AI App Info",
+      "title": "Weaknesses",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Limited Customization: While Flair AI-generated scenes are visually appealing, they may",
+      "link": "file:///android_asset/guide/Weaknesses.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Flair AI App Info",
+      "title": "Comparisons With Similar AI Design Tools",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "We hope that the few tips mentioned below will help you recognize fake photos, especially",
+      "link": "file:///android_asset/guide/Comparisons With Similar AI Design Tools.html"
+    }
+  ]
+}
