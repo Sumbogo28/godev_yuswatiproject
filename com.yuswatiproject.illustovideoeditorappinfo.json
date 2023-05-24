@@ -1,0 +1,180 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Illusto Video Editor App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "About Ilusto Vidio Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Meet illusto, a video editor that makes the process of video creation and editing fast and easy",
+      "link": "file:///android_asset/guide/About Ilusto Vidio Editor.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "Illusto Product Features",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "3D Video Editing, Audio Tools, Brand Overlay, Collaboration, Media Librar",
+      "link": "file:///android_asset/guide/Illusto Product Features.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "Frequently Asked Questions",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Illusto works with these users and organization types: Mid Size Business, Small Business",
+      "link": "file:///android_asset/guide/Frequently Asked Questions.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "Features Illusto Vidio Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Template Library: Illusto.com provides a vast collection of pre-designed video templates across",
+      "link": "file:///android_asset/guide/Features Illusto Vidio Editor.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "How To Use Illusto Vidio Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Sign up and Log in: Visit the Illusto.com website and create an account. Once registered",
+      "link": "file:///android_asset/guide/How To Use Illusto Vidio Editor.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "Strength Illusto Vidio Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "User-Friendly Interface: Illusto Video Editor features a user-friendly interface that is intuitive",
+      "link": "file:///android_asset/guide/Strength Illusto Vidio Editor.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "Weekness Illusto Vidio Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Limited Advanced Editing Features: While Illusto Video Editor offers a range of basic editing",
+      "link": "file:///android_asset/guide/Weekness Illusto Vidio Editor.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "How Add Text or Titles to Videos in Illusto Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Open Illusto Video Editor: Log in to your account and access the video editing platform",
+      "link": "file:///android_asset/guide/How Add Text or Titles to Videos in Illusto Video Editor.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "How To Combine and Trim Video Clips in Illusto Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Import Your Video Clips: Click on the Media tab or icon and import the video clips you want",
+      "link": "file:///android_asset/guide/How To Combine and Trim Video Clips in Illusto Video Editor.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "How To Save or Export a Finished Edited Video in Illusto Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Preview Your Video: Before saving or exporting, preview your video to ensure it looks and plays",
+      "link": "file:///android_asset/guide/How To Combine and Trim Video Clips in Illusto Video Editor.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "How To Import Media (Images, Videos, Audio) Into Your Project in Illusto Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Create a New Project: Start a new project by selecting the New Project option",
+      "link": "file:///android_asset/guide/How To Import Media (Images, Videos, Audio) Into Your Project in Illusto Video Editor.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "Illusto Video Editor provides Several Options and Adjustments To Customize and Enhance",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Transitions: Add transitions between video clips to create smooth and seamless scene transitions",
+      "link": "file:///android_asset/guide/Illusto Video Editor provides Several Options and Adjustments To Customize and Enhance.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "If  You Encounter Any Issues or Errors While Using Illusto Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Refresh the Page or Restart the Application: Try refreshing the editor page or restarting",
+      "link": "file:///android_asset/guide/If  You Encounter Any Issues or Errors While Using Illusto Video Editor.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Illusto Video Editor App Info",
+      "title": "How To Optimize Memory Usage or Storage Space in Illusto Video Editor",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Compress or Convert Media: If your video files are large in size, consider compressing",
+      "link": "file:///android_asset/guide/How To Optimize Memory Usage or Storage Space in Illusto Video Editor.html"
+    }
+  ]
+}
