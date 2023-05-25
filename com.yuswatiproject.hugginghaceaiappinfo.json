@@ -1,0 +1,204 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "HuggingFace Ai App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "What Is Hugging Face Ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI is a prominent company that has made significant contributions to the field",
+      "link": "file:///android_asset/guide/What Is Hugging Face Ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Exploring Hugging Face AI's Pipeline Function",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI's Transformers library provides a powerful feature called the pipeline function",
+      "link": "file:///android_asset/guide/Exploring Hugging Face AI's Pipeline Function.html"
+    },
+    {
+      "id": 3,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "The Pipeline Function Hugging Face Ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The pipeline function in Hugging Face AI's Transformers library provides a convenient and efficient",
+      "link": "file:///android_asset/guide/The Pipeline Function Hugging Face Ai.html"
+    },
+    {
+      "id": 4,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Prerequisites Hugging Face AI's",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Python: Ensure that you have Python installed on your machine. Hugging Face AI's",
+      "link": "file:///android_asset/guide/Prerequisites Hugging Face AI's.html"
+    },
+    {
+      "id": 5,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Integrating Hugging Face AI into Your App Incorporating NLP Capabilities Using Hugging Face API",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "This article will explain how to integrate Hugging Face AI into your machine learning app",
+      "link": "file:///android_asset/guide/Integrating Hugging Face AI into Your App Incorporating NLP Capabilities Using Hugging Face API.html"
+    },
+    {
+      "id": 6,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Transformers Library Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI is known for its Transformers library, which is a popular open-source",
+      "link": "file:///android_asset/guide/Transformers Library Hugging Face AI.html"
+    },
+    {
+      "id": 7,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Choosing and Fine-Tuning Models Selecting the Right Hugging Face AI Model for Your ML App",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "This article will explore different pre-trained models offered by Hugging Face and guide",
+      "link": "file:///android_asset/guide/Choosing and Fine-Tuning Models Selecting the Right Hugging Face AI Model for Your ML App.html"
+    },
+    {
+      "id": 8,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Model Hub Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI offers a Model Hub, where users can access and download pre-trained models",
+      "link": "file:///android_asset/guide/Model Hub Hugging Face AI.html"
+    },
+    {
+      "id": 9,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Pipelines Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI provides easy-to-use pipelines that simplify common NLP tasks",
+      "link": "file:///android_asset/guide/Pipelines Hugging Face AI.html"
+    },
+    {
+      "id": 10,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Tokenizers Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI offers a Tokenizers library, which provides efficient tokenization",
+      "link": "file:///android_asset/guide/Tokenizers Hugging Face AI.html"
+    },
+    {
+      "id": 11,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Tokenizers Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI offers a Tokenizers library, which provides efficient tokenization",
+      "link": "file:///android_asset/guide/Tokenizers Hugging Face AI.html"
+    },
+    {
+      "id": 12,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Community and Collaboration Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI has a thriving community of developers, researchers, and NLP enthusiasts",
+      "link": "file:///android_asset/guide/Community and Collaboration Hugging Face AI.html"
+    },
+    {
+      "id": 13,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Hugging Face Spaces Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI introduced Spaces, which is a collaborative and interactive platform",
+      "link": "file:///android_asset/guide/Hugging Face Spaces Hugging Face AI.html"
+    },
+    {
+      "id": 14,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Research and Innovation Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Hugging Face AI actively promotes research and innovation in the field of NLP",
+      "link": "file:///android_asset/guide/Research and Innovation Hugging Face AI.html"
+    },
+    {
+      "id": 15,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Features Hugging Face AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Transformers Library: The Transformers library is a core feature of Hugging Face AI",
+      "link": "file:///android_asset/guide/Features Hugging Face AI.html"
+    },
+    {
+      "id": 16,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "Hugging Face AI Offers Several Advantages",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pre-trained Models: Hugging Face AI provides a vast collection of pre-trained models",
+      "link": "file:///android_asset/guide/Hugging Face AI Offers Several Advantages.html"
+    },
+    {
+      "id": 17,
+      "name_category": "HuggingFace Ai App Info",
+      "title": "While Hugging Face AI Offers Numerous Benefits, There Are a Few Potential Disadvantages To Consider",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Limited Support for Customization: While Hugging Face AI provides a wide range of pre-trained models",
+      "link": "file:///android_asset/guide/While Hugging Face AI Offers Numerous Benefits, There Are a Few Potential Disadvantages To Consider.html"
+    }
+  ]
+}
