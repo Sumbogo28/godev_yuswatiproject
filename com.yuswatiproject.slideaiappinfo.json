@@ -1,0 +1,196 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Slide AI App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Slide AI App Info",
+      "title": "What Is Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "SlideAI.io is a cloud-based platform powered by artificial intelligence that allows users",
+      "link": "file:///android_asset/guide/What Is Slideai.io.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Slide AI App Info",
+      "title": "How Does Slideai.io Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Slideai.io like other ai presentation tools has made work easier and saved businesses",
+      "link": "file:///android_asset/guide/How Does Slideai.io Work.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Slide AI App Info",
+      "title": "What Are The Advantages Of Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Slideai.io’s customizable templates, themes, and layouts are a major bonus",
+      "link": "file:///android_asset/guide/What Are The Advantages Of Slideai.io.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Slide AI App Info",
+      "title": "How Much Is Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Plans for Slideai.io can be purchased on a subscription basis and begin at",
+      "link": "file:///android_asset/guide/How Much Is Slideai.io.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Slide AI App Info",
+      "title": "What Are The Alternatives To Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Even if Slideai.io is a fantastic platform for developing high-quality presentations",
+      "link": "file:///android_asset/guide/What Are The Alternatives To Slideai.io.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Slide AI App Info",
+      "title": "Frequently Asked Questions (FAQ)",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Slideai.io is an AI-powered tool that helps you create professional and engaging",
+      "link": "file:///android_asset/guide/Frequently Asked Questions (FAQ).html"
+    },
+    {
+      "id": 7,
+      "name_category": "Slide AI App Info",
+      "title": "How To Install And Use SlidesAI - Step By Step Guide",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "SlidesAI is a Google Workspace Add-on (think of it like a Chrome Extension but only",
+      "link": "file:///android_asset/guide/How To Install And Use SlidesAI - Step By Step Guide.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Slide AI App Info",
+      "title": "How Do I Cancel My SlidesAI Subscription",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "You can cancel your subscription from Your Account tab",
+      "link": "file:///android_asset/guide/How Do I Cancel My SlidesAI Subscription.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Slide AI App Info",
+      "title": "Sign Up Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "You can cancel your subscription from Your Account tab",
+      "link": "file:///android_asset/guide/Sign Up Slideai.io.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Slide AI App Info",
+      "title": "Log In Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Enter your login credentials (username/email and password).",
+      "link": "file:///android_asset/guide/Log In Slideai.io.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Slide AI App Info",
+      "title": "Choose a Template Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Browse the available templates or use the search bar to find a specific style or industry.",
+      "link": "file:///android_asset/guide/Choose a Template Slideai.io.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Slide AI App Info",
+      "title": "Customize Slides Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Edit the text: Click on the text boxes to modify the content, such as titles, headings",
+      "link": "file:///android_asset/guide/Customize Slides Slideai.io.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Slide AI App Info",
+      "title": "Preview and Fine-Tune Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Use the Preview option to see how your slides look in presentation mode",
+      "link": "file:///android_asset/guide/Preview and Fine-Tune Slideai.io.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Slide AI App Info",
+      "title": "Save and Download Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Choose the desired format for your presentation, such as PowerPoint (PPTX), PDF, or PNG",
+      "link": "file:///android_asset/guide/Save and Download Slideai.io.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Slide AI App Info",
+      "title": "Save and Download Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Choose the desired format for your presentation, such as PowerPoint (PPTX), PDF, or PNG",
+      "link": "file:///android_asset/guide/Save and Download Slideai.io.html"
+    },
+    {
+      "id": 16,
+      "name_category": "PimEyes",
+      "title": "Share and Present Slideai.io",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "You can now share your presentation by uploading it to cloud storage platforms or sending it",
+      "link": "file:///android_asset/guide/Share and Present Slideai.io.html"
+    }
+  ]
+}
