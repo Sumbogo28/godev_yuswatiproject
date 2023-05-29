@@ -89,14 +89,6 @@
       "link": "file:///android_asset/guide/Run a Model From Python.html"
     },
     {
-      "id": 4,
-      "name_category": "Replicate CodeFormer App Info",
-      "title": "Build An App With SwiftUI",
-      "image": "file:///android_asset/image/A.jpg",
-      "description": "Learn how to build a SwiftUI app that uses Replicate's cloud API to run a machine learning",
-      "link": "file:///android_asset/guide/Build An App With SwiftUI.html"
-    },
-    {
       "id": 5,
       "name_category": "Replicate CodeFormer App Info",
       "title": "Build a Discord Bot",
