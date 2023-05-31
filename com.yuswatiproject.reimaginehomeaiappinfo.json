@@ -1,0 +1,212 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Reimagine Home AI App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "How ReimagineHome Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Reimagine Home is an AI-powered platform that allows you to design and renovate your home",
+      "link": "file:///android_asset/guide/How ReimagineHome Work.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "REImagineHome AI Tool Feature",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Exterior compatibility: REimagineHome.ai works effectively with both interior and exterior house",
+      "link": "file:///android_asset/guide/REImagineHome AI Tool Feature.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Artificial Intelligence and Interior Design",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Artificial intelligence is currently widely used across all business sectors",
+      "link": "file:///android_asset/guide/Artificial Intelligence and Interior Design.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Introduction",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Are you tired of staring at the same old decor in your home? Are you looking",
+      "link": "file:///android_asset/guide/Introduction.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Advantages Of AI In Interior Design",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Artificial intelligence in interior design software has a lot of advantages. Here",
+      "link": "file:///android_asset/guide/Advantages Of AI In Interior Design.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Use Cases",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Showcase Design Skills to Clients: REimagineHome.ai revolutionizes the interior",
+      "link": "file:///android_asset/guide/Use Cases.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "FAQ",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Is AI for interior home designing easy to use for people with no design experience?",
+      "link": "file:///android_asset/guide/FAQ.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Conclusion",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "REimagineHome.ai is a game-changer, offering boundless possibilities for professionals",
+      "link": "file:///android_asset/guide/Conclusion.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Testimonial Customer",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Don’t just take our word for it – check out some of the customer testimonials",
+      "link": "file:///android_asset/guide/Testimonial Customer.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "What Is REimagineHome.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "REimagineHome.ai. is a cutting-edge tool that leverages the power of generative AI ",
+      "link": "file:///android_asset/guide/What Is REimagineHome.ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Disadvantages ReimagineHome",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "While ReimagineHome offers many benefits and opportunities for improving the living",
+      "link": "file:///android_asset/guide/Disadvantages ReimagineHome.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Smart Interior Design REImagineHome",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Smart interior design is a key aspect of ReimagineHome, focusing on incorporating",
+      "link": "file:///android_asset/guide/Smart Interior Design REImagineHome.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Smart Home Technology REImagineHome",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "With PimEye’s you can hide your existing photos from being showed on the public search",
+      "link": "file:///android_asset/guide/Smart Home Technology REImagineHome.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Anything That Can Be Done in The REImagineHome",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "ReimagineHome offers numerous possibilities for transforming and enhancing your living space",
+      "link": "file:///android_asset/guide/Anything That Can Be Done in The REImagineHome.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Implementation ReimagineHome",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "ReimagineHome is a fictional project that aims to create a revolutionary smart home system",
+      "link": "file:///android_asset/guide/Implementation ReimagineHome.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Types ReimagineHome",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Fake news, fake photos, fake profiles - we can call the spreading of them our current-day plague",
+      "link": "file:///android_asset/guide/Types ReimagineHome.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Benefits ReimagineHome",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "ReimagineHome offers a range of benefits that enhance convenience, comfort, efficiency",
+      "link": "file:///android_asset/guide/Benefits ReimagineHome.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Reimagine Home AI App Info",
+      "title": "Goals ReimagineHome",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The goals of ReimagineHome are centered around creating a cutting-edge smart home",
+      "link": "file:///android_asset/guide/Goals ReimagineHome.html"
+    }
+  ]
+}
