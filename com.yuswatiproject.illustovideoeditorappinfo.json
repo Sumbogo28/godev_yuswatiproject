@@ -16,7 +16,7 @@
         "inter": "ca-app-pub-4225063021423664/5924370127",
         "native_ad": "ca-app-pub-4225063021423664/8985647736",
         "open_ad": "ca-app-pub-4225063021423664/1985125113",
-        "splash_ad": false
+        "splash_ad": true
       }
     ]
   },
