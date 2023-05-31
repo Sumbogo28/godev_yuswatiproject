@@ -1,0 +1,156 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "HUmata AI",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "HUmata AI",
+      "title": "Testimonial Customer",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "I'm a researcher, and Humata has been a game-changer for me. It's like having",
+      "link": "file:///android_asset/guide/Testimonial Customer.html"
+    },
+    {
+      "id": 2,
+      "name_category": "HUmata AI",
+      "title": "Humata's Key Feature and Benefit",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Humata shines with an array of features that make it stand out from other",
+      "link": "file:///android_asset/guide/Humata's Key Feature and Benefit.html"
+    },
+    {
+      "id": 3,
+      "name_category": "HUmata AI",
+      "title": "What Is HUmata AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Humata is a software development company that offers an AI-powered Q&A platform",
+      "link": "file:///android_asset/guide/What Is HUmata AI.html"
+    },
+    {
+      "id": 4,
+      "name_category": "HUmata AI",
+      "title": "Pricing HUmata",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Humata offers a free version, allowing you to experience its innovative features without",
+      "link": "file:///android_asset/guide/Pricing HUmata.html"
+    },
+    {
+      "id": 5,
+      "name_category": "HUmata AI",
+      "title": "Who Should Use HUmata",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Humata is perfect for individuals and businesses of all sizes across various industries",
+      "link": "file:///android_asset/guide/Who Should Use HUmata.html"
+    },
+    {
+      "id": 6,
+      "name_category": "HUmata AI",
+      "title": "How Does HUmata Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Humata operates on an AI engine that parses through your files, quickly and accurately",
+      "link": "file:///android_asset/guide/How Does HUmata Work.html"
+    },
+    {
+      "id": 7,
+      "name_category": "HUmata AI",
+      "title": "IS HUmata AI Free",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Get the Freemium starter plan for free and enjoy unlimited questions, page references, and",
+      "link": "file:///android_asset/guide/IS HUmata AI Free.html"
+    },
+    {
+      "id": 8,
+      "name_category": "HUmata AI",
+      "title": "FAQ",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The exact AI technology that Humata employs isn't specified. The GPT",
+      "link": "file:///android_asset/guide/FAQ.html"
+    },
+    {
+      "id": 9,
+      "name_category": "HUmata AI",
+      "title": "What Problem Does HUmata Solve",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Humata addresses the challenge of data overload. It simplifies the process of extracting",
+      "link": "file:///android_asset/guide/What Problem Does HUmata Solve.html"
+    },
+    {
+      "id": 10,
+      "name_category": "HUmata AI",
+      "title": "HUmata Use Cases",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Humata is an incredibly versatile tool that proves useful for various professionals",
+      "link": "file:///android_asset/guide/HUmata Use Cases.html"
+    },
+    {
+      "id": 11,
+      "name_category": "HUmata AI",
+      "title": "Conclusion",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "As an expert in this industry, I can confidently say that Humata is a game-changer",
+      "link": "file:///android_asset/guide/Conclusion.html"
+    }
+  ]
+}
