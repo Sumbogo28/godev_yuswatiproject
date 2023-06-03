@@ -1,0 +1,204 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Gamma AI",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Gamma AI",
+      "title": "What Is Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Gamma AI is a company that provides an AI-powered cloud DLP solution for SaaS",
+      "link": "file:///android_asset/guide/What Is Gamma AI.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Gamma AI",
+      "title": "What Is The Purpose Of Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The purpose of Gamma AI is to provide an AI-powered cloud DLP solution for SaaS",
+      "link": "file:///android_asset/guide/What Is The Purpose Of Gamma AI.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Gamma AI",
+      "title": "Benefits Using Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The benefits of using Gamma AI’s cloud DLP for SaaS include increased security for sensitive data",
+      "link": "file:///android_asset/guide/Benefits Using Gamma AI.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Gamma AI",
+      "title": "How Does Gamma Ai Cloud DPL Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Gamma AI’s cloud DLP solution for SaaS continuously monitors employees and notifies administrators",
+      "link": "file:///android_asset/guide/How Does Gamma Ai Cloud DPL Work.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Gamma AI",
+      "title": "What Is Gamma AI Use For",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Prevention (DLP) solution that uses Artificial Intelligence (AI) to secure Software-as-a-Service (SaaS) applications",
+      "link": "file:///android_asset/guide/What Is Gamma AI Use For.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Gamma AI",
+      "title": "Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Gamma AI refers to artificial intelligence systems or technologies that utilize advanced machine learning",
+      "link": "file:///android_asset/guide/Gamma AI.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Gamma AI",
+      "title": "Implementation Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Implementing Gamma AI involves several key steps and considerations. Here's an overview",
+      "link": "file:///android_asset/guide/Implementation Gamma AI.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Gamma AI",
+      "title": "Benefits Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Gamma AI offers several benefits across various domains and industries. Here are some key",
+      "link": "file:///android_asset/guide/Benefits Gamma AI.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Gamma AI",
+      "title": "Goals Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The goals of Gamma AI are aligned with the broader objectives of artificial intelligence, which include",
+      "link": "file:///android_asset/guide/Goals Gamma AI.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Gamma AI",
+      "title": "Advantages Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Enhanced Decision-Making: Gamma AI can process and analyze vast amounts of data quickly",
+      "link": "file:///android_asset/guide/Advantages Gamma AI.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Gamma AI",
+      "title": "Disadvantages Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Data Dependency: Gamma AI systems heavily rely on high-quality and diverse datasets",
+      "link": "file:///android_asset/guide/Disadvantages Gamma AI.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Gamma AI",
+      "title": "Phases Use Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The use of Gamma AI typically involves several phases in its implementation. While the specific",
+      "link": "file:///android_asset/guide/Phases Use Gamma AI.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Gamma AI",
+      "title": "Feature Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Machine Learning Algorithms: Gamma AI utilizes state-of-the-art machine learning algorithms",
+      "link": "file:///android_asset/guide/Feature Gamma AI.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Gamma AI",
+      "title": "PimEyes' Statement on Allegations Made",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "To address the increased public interest caused by article published by BBC, related to PimEyes",
+      "link": "file:///android_asset/guide/PimEyes' Statement on Allegations Made.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Gamma AI",
+      "title": "How To Access Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": " Identify a Platform or Service: Look for platforms, cloud services, or AI frameworks that provide",
+      "link": "file:///android_asset/guide/How To Access Gamma AI.html"
+    },
+    {
+      "id": 16,
+      "name_category": "PimEyes",
+      "title": "How To Use Gamma AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Define Your Objective: Clearly define the problem you want to solve or the task you want to accomplish",
+      "link": "file:///android_asset/guide/How To Use Gamma AI.html"
+    },
+    {
+      "id": 17,
+      "name_category": "PimEyes",
+      "title": "How to Verify Fake Photos",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "We hope that the few tips mentioned below will help you recognize fake photos, especially",
+      "link": "file:///android_asset/guide/How to Verify Fake Photos.html"
+    }
+  ]
+}
