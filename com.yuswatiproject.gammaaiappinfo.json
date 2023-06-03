@@ -183,22 +183,6 @@
       "image": "file:///android_asset/image/A.jpg",
       "description": " Identify a Platform or Service: Look for platforms, cloud services, or AI frameworks that provide",
       "link": "file:///android_asset/guide/How To Access Gamma AI.html"
-    },
-    {
-      "id": 16,
-      "name_category": "PimEyes",
-      "title": "How To Use Gamma AI",
-      "image": "file:///android_asset/image/A.jpg",
-      "description": "Define Your Objective: Clearly define the problem you want to solve or the task you want to accomplish",
-      "link": "file:///android_asset/guide/How To Use Gamma AI.html"
-    },
-    {
-      "id": 17,
-      "name_category": "PimEyes",
-      "title": "How to Verify Fake Photos",
-      "image": "file:///android_asset/image/A.jpg",
-      "description": "We hope that the few tips mentioned below will help you recognize fake photos, especially",
-      "link": "file:///android_asset/guide/How to Verify Fake Photos.html"
     }
   ]
 }
