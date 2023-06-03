@@ -1,0 +1,244 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Doctrina AI",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Doctrina AI",
+      "title": "Doctrina AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The Magic of Doctrina.ai: Transforming Learning with Advanced Technology",
+      "link": "file:///android_asset/guide/Doctrina AI.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Doctrina AI",
+      "title": "Feature Doctrina Ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Doctrina AI is equipped with five main education assistant tools",
+      "link": "file:///android_asset/guide/Feature Doctrina Ai.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Doctrina AI",
+      "title": "Why Consider Doctrina AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Character AI is an artificial intelligence (AI) chatbot program based on language models",
+      "link": "file:///android_asset/guide/Why Consider Doctrina AI.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Doctrina AI",
+      "title": "How To Use Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "You may start using Character.ai immediately by signing up for an account",
+      "link": "file:///android_asset/guide/How To Use Character AI.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Doctrina AI",
+      "title": "Character AI Voices",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The Character AI Voices lets you offer your AI characters individual speaking styles",
+      "link": "file:///android_asset/guide/Character AI Voices.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Doctrina AI",
+      "title": "How To Download Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "There an iOS/Android App version of character.ai? The short answer",
+      "link": "file:///android_asset/guide/How To Download Character AI.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Doctrina AI",
+      "title": "Doctrina.ai Pricing",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Despite the multitude of features and benefits offered by Doctrina AI",
+      "link": "file:///android_asset/guide/Doctrina.ai Pricing.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Doctrina AI",
+      "title": "The Future of Doctrina AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Doctrina AI holds immense potential in the realm of education, offering educators",
+      "link": "file:///android_asset/guide/The Future of Doctrina AI.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Doctrina AI",
+      "title": "Conclusion",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Doctrina.ai is more than just an AI-powered platform; it is an invaluable resource",
+      "link": "file:///android_asset/guide/Conclusion.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Doctrina AI",
+      "title": "What Is Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "I apologize for the confusion in my previous responses. As of my knowledge cutoff",
+      "link": "file:///android_asset/guide/What Is Doctrina.ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Doctrina AI",
+      "title": "What Is The Purpose Of Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "I apologize for the confusion. As of my knowledge cutoff in September 2021, I don't have",
+      "link": "file:///android_asset/guide/What Is The Purpose Of Doctrina.ai.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Doctrina AI",
+      "title": "How Does Doctrina.ai Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "I apologize for the confusion in my previous responses. Unfortunately, as of my knowledge",
+      "link": "file:///android_asset/guide/How Does Doctrina.ai Work.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Doctrina AI",
+      "title": "What Is Doctrina.ai Use For",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "I apologize for the confusion earlier. As of my knowledge cutoff in September 2021, I don't",
+      "link": "file:///android_asset/guide/What Is Doctrina.ai Use For.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Doctrina AI",
+      "title": "Features of Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "I apologize for the confusion earlier. However, since I do not have any specific information",
+      "link": "file:///android_asset/guide/Features of Doctrina.ai.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Doctrina AI",
+      "title": "How To Access Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "If \"Doctrina.ai\" is a specific platform or service, I recommend the following general steps to access it",
+      "link": "file:///android_asset/guide/How To Access Doctrina.ai.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Doctrina AI",
+      "title": "How To Use Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "If Doctrina.ai is a specific platform or service, I recommend the following general steps to use",
+      "link": "file:///android_asset/guide/How To Use Doctrina.ai.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Doctrina AI",
+      "title": "Benefits Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Accessible Learning: E-learning platforms offer the flexibility to access educational content",
+      "link": "file:///android_asset/guide/Benefits Doctrina.ai.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Doctrina AI",
+      "title": "Goals Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "If Doctrina.ai is a specific entity or platform, I recommend visiting their official website",
+      "link": "file:///android_asset/guide/Goals Doctrina.ai.html"
+    },
+    {
+      "id": 19,
+      "name_category": "Doctrina AI",
+      "title": "Advantages Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Flexibility: E-learning platforms allow learners to access courses and materials at their convenience",
+      "link": "file:///android_asset/guide/Advantages Doctrina.ai.html"
+    },
+    {
+      "id": 20,
+      "name_category": "Doctrina AI",
+      "title": "Disadvantages Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Limited Interaction: E-learning platforms may lack the face-to-face interaction and real-time",
+      "link": "file:///android_asset/guide/Disadvantages Doctrina.ai.html"
+    },
+    {
+      "id": 21,
+      "name_category": "Doctrina.ai",
+      "title": "Stages Use Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": " Registration: The first stage usually involves creating an account on the Doctrina.ai platform",
+      "link": "file:///android_asset/guide/Stages Use Doctrina.ai.html"
+    },
+    {
+      "id": 22,
+      "name_category": "Doctrina.ai",
+      "title": "Feature Doctrina.ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": ". Course Catalog: A collection of courses covering various subjects or industries.",
+      "link": "file:///android_asset/guide/Feature Doctrina.ai.html"
+    }
+  ]
+}
