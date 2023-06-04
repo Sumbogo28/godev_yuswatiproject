@@ -1,0 +1,196 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "CharacterAI App Info",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "CharacterAI App Info",
+      "title": "What Is Character Ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Character AI is an artificial intelligence (AI) chatbot program based on language models",
+      "link": "file:///android_asset/guide/What Is Character Ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "CharacterAI App Info",
+      "title": "How To Use Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "You may start using Character.ai immediately by signing up for an account on their website",
+      "link": "file:///android_asset/guide/How To Use Character AI.html"
+    },
+    {
+      "id": 3,
+      "name_category": "CharacterAI App Info",
+      "title": "Character AI Voices",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The Character AI Voices lets you offer your AI characters individual speaking styles",
+      "link": "file:///android_asset/guide/Character AI Voices.html"
+    },
+    {
+      "id": 4,
+      "name_category": "CharacterAI App Info",
+      "title": "How To Download Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "There an iOS/Android App version of character.ai? The short answer is no; you cannot download",
+      "link": "file:///android_asset/guide/How To Download Character AI.html"
+    },
+    {
+      "id": 5,
+      "name_category": "CharacterAI App Info",
+      "title": "Definition Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Character AI, also known as Artificial Intelligence for characters, refers to the application",
+      "link": "file:///android_asset/guide/Definition Character AI.html"
+    },
+    {
+      "id": 6,
+      "name_category": "CharacterAI App Info",
+      "title": "Implementation Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PimEyes has 3 different pricing plans:",
+      "link": "file:///android_asset/guide/Implementation Character AI.html"
+    },
+    {
+      "id": 7,
+      "name_category": "CharacterAI App Info",
+      "title": "How PimEyes Can Help You",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Implementing Character AI involves a combination of various techniques and technologies to create",
+      "link": "file:///android_asset/guide/How PimEyes Can Help You.html"
+    },
+    {
+      "id": 8,
+      "name_category": "CharacterAI App Info",
+      "title": "Benefits Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Enhanced Player Engagement: Character AI creates more immersive and engaging experiences",
+      "link": "file:///android_asset/guide/Benefits Character AI.html"
+    },
+    {
+      "id": 9,
+      "name_category": "CharacterAI App Info",
+      "title": "Goals Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The goals of Character AI can vary depending on the specific application and context in which it is used",
+      "link": "file:///android_asset/guide/Goals Character AI.html"
+    },
+    {
+      "id": 10,
+      "name_category": "CharacterAI App Info",
+      "title": "Disadvantages Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Development Complexity: Implementing robust Character AI systems can be technically complex",
+      "link": "file:///android_asset/guide/Disadvantages Character AI.html"
+    },
+    {
+      "id": 11,
+      "name_category": "CharacterAI App Info",
+      "title": "Phases Use Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Conceptualization and Design: In this phase, the goals, requirements, and design of the Character AI ",
+      "link": "file:///android_asset/guide/Phases Use Character AI"
+    },
+    {
+      "id": 12,
+      "name_category": "CharacterAI App Info",
+      "title": "Features of Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Natural Language Processing (NLP): Character AI can include NLP techniques to enable virtual",
+      "link": "file:///android_asset/guide/Features of Character AI.html"
+    },
+    {
+      "id": 13,
+      "name_category": "CharacterAI App Info",
+      "title": "What Is The Purpose Of Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Realistic and Believable Characters: Character AI aims to create virtual characters that exhibit human",
+      "link": "file:///android_asset/guide/What Is The Purpose Of Character AI.html"
+    },
+    {
+      "id": 14,
+      "name_category": "CharacterAI App Info",
+      "title": "How Does Character AI Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Character AI works by combining various techniques from artificial intelligence and computer science",
+      "link": "file:///android_asset/guide/How Does Character AI Work.html"
+    },
+    {
+      "id": 15,
+      "name_category": "CharacterAI App Info",
+      "title": "What Is Character AI Use For",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Non-Player Characters (NPCs): Character AI is extensively used to create intelligent and interactive",
+      "link": "file:///android_asset/guide/What Is Character AI Use For.html"
+    },
+    {
+      "id": 16,
+      "name_category": "CharacterAI App Info",
+      "title": "How To Access Character AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Accessing Character AI typically involves using programming frameworks, libraries, or development tools",
+      "link": "file:///android_asset/guide/How To Access Character AI.html"
+    }
+  ]
+}
