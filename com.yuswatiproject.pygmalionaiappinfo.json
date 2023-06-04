@@ -1,0 +1,228 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Pigmalion AI",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Pigmalion AI",
+      "title": "What Is Pigmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pygmalion AI is a Large language model (LLM) based on EleutherAI’s GPT-J 6B",
+      "link": "file:///android_asset/guide/What Is Pigmalion AI.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Pigmalion AI",
+      "title": "Features of Pygmalion Ai",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pygmalion AI can analyze trends, determine new niches and create content.",
+      "link": "file:///android_asset/guide/Features of Pygmalion Ai.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Pigmalion AI",
+      "title": "How To Access Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pygmalion AI is free and easily accessible to all users as it is an open-source model.",
+      "link": "file:///android_asset/guide/How To Access Pygmalion AI.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Pigmalion AI",
+      "title": "How To Use Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "You can now create new characters or Chat with the existing characters in the Pygmalion AI.",
+      "link": "file:///android_asset/guide/How To Use Pygmalion AI.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Pigmalion AI",
+      "title": "Definition Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pygmalion AI refers to a concept that combines artificial intelligence (AI) with the Pygmalion effect",
+      "link": "file:///android_asset/guide/Definition Pygmalion AI.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Pigmalion AI",
+      "title": "Implementation Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Implementing Pygmalion AI involves designing and developing AI systems that incorporate elements",
+      "link": "file:///android_asset/guide/Implementation Pygmalion AI.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Pigmalion AI",
+      "title": "Benefits Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pygmalion AI offers several potential benefits across various domains. Here are some",
+      "link": "file:///android_asset/guide/Benefits Pygmalion AI.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Pigmalion AI",
+      "title": "Goals Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The primary goals of Pygmalion AI are centered around fostering personal growth, skill development",
+      "link": "file:///android_asset/guide/Goals Pygmalion AI.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Pigmalion AI",
+      "title": "Benefits Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pygmalion AI offers several potential benefits across various domains. Here are some of the key advantages",
+      "link": "file:///android_asset/guide/Benefits Pygmalion AI.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Pigmalion AI",
+      "title": "Disadvantages Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "While Pygmalion AI has the potential for numerous benefits, there are also some potential disadvantages",
+      "link": "file:///android_asset/guide/Disadvantages Pygmalion AI.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Pigmalion AI",
+      "title": "More than a Reverse Image Search",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "PimEyes uses a reverse image search mechanism and enhances it by face recognition technology",
+      "link": "file:///android_asset/guide/More than a Reverse Image Search.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Pigmalion AI",
+      "title": "Phases Use Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The use of Pygmalion AI can be divided into several phases, each with its own purpose and objectives",
+      "link": "file:///android_asset/guide/Phases Use Pygmalion AI.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Feature Pygmalion AI",
+      "title": "Feature Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pygmalion AI incorporates several key features to provide personalized guidance and support to users",
+      "link": "file:///android_asset/guide/Feature Pygmalion AI.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Pigmalion AI",
+      "title": "PimEyes' Statement on Allegations Made",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Pygmalion AI incorporates several key features to provide personalized guidance and support to users",
+      "link": "file:///android_asset/guide/PimEyes' Statement on Allegations Made.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Pigmalion AI",
+      "title": "What Is The Purpose Of Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "The purpose of Pygmalion AI is to provide personalized guidance, support, and motivation to individuals",
+      "link": "file:///android_asset/guide/What Is The Purpose Of Pygmalion AI.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Pigmalion AI",
+      "title": "How Does Pygmalion AI Work",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Data Collection: Pygmalion AI starts by collecting data about users",
+      "link": "file:///android_asset/guide/How Does Pygmalion AI Work.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Pigmalion AI",
+      "title": "What Is Pygmalion AI Use For",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Education and Learning: Pygmalion AI can be employed in educational settings to provide personalized ",
+      "link": "file:///android_asset/guide/What Is Pygmalion AI Use For.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Pigmalion AI",
+      "title": "Access Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Web Applications: Pygmalion AI may be accessible through web-based applications.",
+      "link": "file:///android_asset/guide/Access Pygmalion AI.html"
+    },
+    {
+      "id": 19,
+      "name_category": "Pigmalion AI",
+      "title": "What Data Does PimEyes Store",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Education and Learning: Pygmalion AI can be employed in educational settings to provide personalized",
+      "link": "file:///android_asset/guide/What Data Does PimEyes Store.html"
+    },
+    {
+      "id": 20,
+      "name_category": "Pigmalion AI",
+      "title": "Use Pygmalion AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "“Access the Platform: Depending on the specific implementation of Pygmalion AI",
+      "link": "file:///android_asset/guide/Use Pygmalion AI.html"
+    }
+  ]
+}
