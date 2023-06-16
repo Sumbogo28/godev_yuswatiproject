@@ -10,13 +10,13 @@
         "name": "fan",
         "value": 1,
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
+        "appId_appKey_publisherId_gameId": "272811735243658",
+        "banner": "272811735243658_272812351910263",
+        "mrec": "272811735243658_272812398576925",
+        "inter": "272811735243658_272812448576920",
+        "native_ad": "272811735243658_272812585243573",
         "open_ad": "-",
-        "splash_ad": false
+        "splash_ad": true
       }
     ]
   },
