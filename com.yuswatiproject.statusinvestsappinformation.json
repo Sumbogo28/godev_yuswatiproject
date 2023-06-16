@@ -7,14 +7,14 @@
 
     "ad_network": [
       {
-        "name": "admob",
+        "name": "fan",
         "value": 1,
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
+        "appId_appKey_publisherId_gameId": "269416102297320",
+        "banner": "269416102297320_269418518963745",
+        "mrec": "269416102297320_269418588963738",
+        "inter": "269416102297320_269418635630400",
+        "native_ad": "269416102297320_269418832297047",
         "open_ad": "-",
         "splash_ad": false
       }
