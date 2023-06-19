@@ -7,7 +7,7 @@
 
     "ad_network": [
       {
-        "name": "admob",
+        "name": "fan",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "1127532997967692",
