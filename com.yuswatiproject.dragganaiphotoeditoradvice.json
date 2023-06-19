@@ -4,13 +4,13 @@
       "app_id_onesignal": "off",
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_chat_bot": true
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
     },
 
     "ad_network": [
       {
-        "name": "fan",
+        "name": "adsoff",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "-",
@@ -49,8 +49,8 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
+      "name_category": "DragGan AI",
+      "image": "file:///android_asset/image/A.jpg"
     },
     {
       "id": 2,
@@ -67,75 +67,163 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safetyssss",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "name_category": "DragGan AI",
+      "title": "Differences DragGan AI With Another Application",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Focus and Purpose: DragGan AI may have a specific focus on providing tools and features for ",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/differences-draggan-ai-with-another.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
-      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+      "name_category": "DragGan AI",
+      "title": "Phases Use DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Research and Familiarization: Start by researching and gaining an understanding of the DragGan AI",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/phases-use-draggan-ai.html"  
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "name_category": "DragGan AI",
+      "title": "Guide For DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Access the Application: Visit the official website or download the DragGan AI application from",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/guide-for-draggan-ai.html"  
     },
     {
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "DragGan AI",
+      "title": "How to Start Use DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Research and Discover: Start by researching and identifying the official sources or platforms that provide DragGan AI",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/how-to-start-use-draggan-ai.html"  
     },
     {
       "id": 5,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "DragGan AI",
+      "title": "Is DragGan AI Worth It",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Artistic Goals: If you are a drag artist or enthusiast seeking to expand your creative possibilities and explore new avenues in drag performance",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/is-draggan-ai-worth-it.html"  
     },
     {
       "id": 6,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "DragGan AI",
+      "title": "System Requirements DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Operating System: The application may be available for different operating systems such as Windows, macOS, or Linux",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/system-requirements-draggan-ai.html"
     },
     {
       "id": 7,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "DragGan AI",
+      "title": "How To Download DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "If there is a specific application or software named DragGan AI that has been released since then, it is best to search online for official sources, websites, or app stores",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/how-to-download-draggan-ai.html"  
     },
     {
       "id": 8,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "DragGan AI",
+      "title": "How To Access DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Online Platforms: Check if there are any online platforms or websites that offer DragGan AI as a service. Search for DragGan AI ",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/how-to-access-draggan-ai.html"  
     },
     {
       "id": 9,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "DragGan AI",
+      "title": "Disadvantage Of The DragGan AI Application",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Lack of Authenticity: AI-generated drag personas may lack the lived experiences and personal narratives that are central to the drag art form.",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/disadvantage-of-draggan-ai-application.html"  
+    },
+    {
+      "id": 10,
+      "name_category": "DragGan AI",
+      "title": "Advantage Of The DragGan AI Application",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Expanded Creative Possibilities: DragGan AI opens up a world of infinite creative possibilities. It provides a platform for exploring diverse drag styles, experimenting with unique",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/advantage-of-draggan-ai-application.html"  
+    },
+    {
+      "id": 11,
+      "name_category": "DragGan AI",
+      "title": "Purpose Of The DragGan AI Application",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Enhancing Creativity: DragGan AI aims to expand the creative possibilities within the realm of drag performance.",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/purpose-of-draggan-ai-application.html"
+    },
+    {
+      "id": 12,
+      "name_category": "DragGan AI",
+      "title": "Introducing DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "DragGan AI is a groundbreaking application that harnesses the power of artificial intelligence to revolutionize the world of drag performance and unleash new realms of creativity",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/introducing-draggan-ai.html"  
+    },
+    {
+      "id": 13,
+      "name_category": "DragGan AI",
+      "title": "Features Of DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Drag Persona Generation: DragGan AI can generate virtual representations of drag personas, creating unique and creative character designs that embody the essence of drag performers.",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/features-of-draggan-ai.html"  
+    },
+    {
+      "id": 14,
+      "name_category": "DragGan AI",
+      "title": "What Is DragGan AI Use For",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Virtual Drag Representation: DragGan AI can generate virtual representations of drag queens or kings. By training the AI model on a dataset of drag performances, it can learn the unique aesthetics",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/what-is-draggan-ai-use-for.html"  
+    },
+    {
+      "id": 15,
+      "name_category": "DragGan AI",
+      "title": "How Does DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "AI applications like DragGan AI would typically utilize machine learning techniques, such as deep learning or generative models, to generate or assist",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/how-does-draggan-ai-cloud-dpl-work.html"  
+    },
+    {
+      "id": 16,
+      "name_category": "DragGan AI",
+      "title": "What Is The Purpose Of DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": " Virtual Drag Representation: DragGan AI enables the generation of virtual representations of drag queens or kings.",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/what-is-purpose-of-draggan-ai.html"
+    },
+    {
+      "id": 17,
+      "name_category": "DragGan AI",
+      "title": "How To Use DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Gather or create a drag performance dataset: Collect a diverse dataset of drag performances, images, videos, or other relevant media.",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/how-to-use-draggan-ai.html"  
+    },
+    {
+      "id": 18,
+      "name_category": "DragGan AI",
+      "title": "What Is DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "DragGan AI refers to the application of artificial intelligence, specifically generative adversarial networks (GANs), in the context of drag performance and drag art.",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/what-is-draggan-ai.html"  
+    },
+    {
+      "id": 19,
+      "name_category": "DragGan AI",
+      "title": "Implementation DragGan AI",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Define the objective: Determine the specific goal of your DragGan AI implementation. For example, it could be to generate virtual drag personas",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/implementation-draggan-ai.html"  
+    },
+    {
+      "id": 20,
+      "name_category": "DragGan AI",
+      "title": "Definition DragGan",
+      "image": "file:///android_asset/image/A.jpg",
+      "description": "Drag Your GAN is an AI tool developed for controlling generative adversarial networks (GANs) with increased flexibility, precision, and generality. ",
+      "link": "https://yuswatiprojectdragganai.blogspot.com/p/definition-draggan.html"  
     }
   ]
 }
