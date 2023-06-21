@@ -13,11 +13,11 @@
         "name": "adsoff",
         "value": 1,
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
+        "appId_appKey_publisherId_gameId": "1318869955693234",
+        "banner": "1318869955693234_1318872755692954",
+        "mrec": "1318869955693234_1318872789026284",
+        "inter": "1318869955693234_1318872845692945",
+        "native_ad": "1318869955693234_1318874759026087",
         "open_ad": "-",
         "splash_ad": true
       }
