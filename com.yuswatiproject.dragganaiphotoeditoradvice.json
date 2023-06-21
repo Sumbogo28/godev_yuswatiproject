@@ -10,7 +10,7 @@
 
     "ad_network": [
       {
-        "name": "adsoff",
+        "name": "fan",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "1318869955693234",
